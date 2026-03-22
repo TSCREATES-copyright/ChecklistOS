@@ -186,13 +186,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## ✍️ Author
 
 **®TSCREATES**
-
-## 💬 Contact / Support
-
-- **Website:** [https://checklistos.example.com](#)
-- **Twitter:** [@ChecklistOS](#)
-- **Issues:** [GitHub Issues Tracker](#)
-
 ---
 *Built with precision for operators who execute.*
 # ChecklistOS
